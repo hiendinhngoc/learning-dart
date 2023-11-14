@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Document
 
 - [Set up](/journal/set_up.md)
+- [Key words](/journal/key_words.md)
+- [Data types](/journal/data_types.md)
